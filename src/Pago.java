@@ -62,7 +62,7 @@ public class Pago {
         sb.append("Nombre completo del estudiante.....:"+estudiante+"\n");
         sb.append("Matricula......"+estudiante.getMatricula()+"\n");
         sb.append("Universidad....."+estudiante.getUniversidad()+"\n");
-        sb.append("Precio por credito.......:"+Asignatura.PRECIO_POR_CREDITO+"\n");
+        sb.append("Precio por credito.......:"+Asignatura.PRECIO_POR_CREDITO+" DOP"+"\n");
         sb.append("*****************************************************************************"+"\n");
 
         sb.append("Nombre de la asignatura    "+"Cantidad de creditos      "+"Precio de la materia      "+"\n");
